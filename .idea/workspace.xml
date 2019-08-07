@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c74d7a1d-0c02-4256-bde3-4b09b191a5fa" name="Default" comment="" />
+    <list default="true" id="c74d7a1d-0c02-4256-bde3-4b09b191a5fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" column="148" lean-forward="true" selection-start-line="6" selection-start-column="148" selection-end-line="6" selection-end-column="148" />
             </state>
           </provider>
         </entry>
@@ -59,8 +61,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1395" />
-    <option name="y" value="65" />
+    <option name="x" value="1396" />
+    <option name="y" value="63" />
     <option name="width" value="1683" />
     <option name="height" value="777" />
   </component>
@@ -75,6 +77,11 @@
             <path>
               <item name="badhare.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="badhare.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="badhare.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="badhare.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -120,15 +127,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565157304652</updated>
-      <workItem from="1565157306175" duration="4412000" />
+      <workItem from="1565157306175" duration="4910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4412000" />
+    <option name="totallyTimeSpent" value="4910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1395" y="65" width="1683" height="777" extended-state="0" />
+    <frame x="1396" y="63" width="1683" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18829982" />
@@ -168,8 +175,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="90">
+          <caret line="6" column="148" lean-forward="true" selection-start-line="6" selection-start-column="148" selection-end-line="6" selection-end-column="148" />
         </state>
       </provider>
     </entry>
