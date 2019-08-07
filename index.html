@@ -1,0 +1,91 @@
+<html>
+<head>
+    <link href="assets/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <script src="https://cdn.bootcss.com/vue/2.6.10/vue.min.js"></script>
+    <script src="https://cdn.bootcss.com/moment.js/2.24.0/moment.min.js"></script>
+    <title>陈江❤吴燕燕</title>
+</head>
+<style>
+    body {
+        background: #FDF5E6;
+        text-align: center;
+    }
+
+    body .heart span.heart {
+        font-size: 300px;
+        color: red;
+    }
+
+    body .heart {
+        margin: -100px 0 -60px;
+    }
+
+    body .heart .body{
+        color: #00BFFF;
+    }
+    body .heart .girl{
+        color: #FF69B4;
+    }
+
+    body .content p {
+        margin: 5px 0 5px;
+        color: #FF1493;
+    }
+
+    body .content .day {
+        font-size: 2em;
+    }
+
+    body .content .hour {
+        font-size: 1.8em;
+    }
+
+    body .content .minute {
+        font-size: 1.6em;
+    }
+
+    body .content .second {
+        font-size: 1.3em;
+    }
+
+    body .content div span {
+        font-size: 0.3em !important;
+        color: #C0C0C0;
+        margin-left: 5px;
+    }
+    body .by {
+        margin:50px;
+        color: #aaa;
+        font-size: 10px;
+    }
+</style>
+<body>
+<div id="app">
+    <div class="heart">
+        <span class="body">陈江</span>
+        <span class="heart">❤</span>
+        <span class="girl">吴燕燕</span>
+    </div>
+    <div class="content">
+        <div class="day">
+            <p>{{ day }}<span>天</span></p>
+        </div>
+        <div class="hour">
+            <p>{{ hour }}<span>时</span></p>
+        </div>
+        <div class="minute">
+            <p>{{ minute }}<span>分</span></p>
+
+        </div>
+        <div class="second">
+            <p>{{ second }}<span>秒</span></p>
+        </div>
+    </div>
+
+    <div class="by">
+        by 陈江 2019.8.7
+    </div>
+</div>
+</body>
+<script type="text/javascript" src="script.js"></script>
+</html>
